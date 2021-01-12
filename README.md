@@ -1,0 +1,2 @@
+# mcbansdb
+Minecraft Server Database
